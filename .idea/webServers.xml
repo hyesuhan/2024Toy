@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef2f4bbe-f281-459c-9c81-2aa272c84b62" name="candychat">
+        <fileTransfer accessType="SFTP" host="43.202.84.226" port="22" sshConfigId="d90b8bbf-c344-4a57-8fd8-5d87cfc37a26" sshConfig="ubuntu@43.202.84.226:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
