@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="89ccbe4e-5c54-43b0-aac5-c11b50d46d93" name="candychat Mapping">
+      <data-sources db="6f7a7fc8-db9c-42d0-81c4-e06026ac966f" ddl="7a93db4d-62a3-4244-a1ce-b0e53aa4bdc5" />
+      <scope>
+        <node negative="1">
+          <node kind="database" negative="1" />
+          <node kind="schema" qname="mysql" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
